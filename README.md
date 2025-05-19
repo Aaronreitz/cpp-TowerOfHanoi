@@ -23,12 +23,4 @@ Ziel war es, das rekursive Denken mit strukturierter Code-Architektur (Header- u
 
 ---
 
-## 🔧 Projektstruktur
-
-cpp-TowerOfHanoi/
-├── main.cpp                // Einstiegspunkt, steuert den Programmablauf
-├── src.cpp                 // Implementierung der Spiellogik
-├── Tower.h                 // Klassendefinition eines Turms
-├── tower_utilities.h       // Hilfsfunktionen rund um das Spiel
-└── README.md               // Diese Datei
 
